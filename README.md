@@ -1,1 +1,1 @@
-This is my shell repository
+This my shell permissions directory
