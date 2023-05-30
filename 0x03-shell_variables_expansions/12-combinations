@@ -1,2 +1,2 @@
 #!/bin/bash
-i={a..z} | j={a..z} | [[ $i$j != oo ]] | echo $i$j
+i="{a..z}" | j="{a..z}" | [[ $i$j != oo ]] | echo $i$j
