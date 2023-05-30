@@ -1,0 +1,2 @@
+#!/bin/bash
+ADD=$128 | export TRUEKNOWLEDGE="TRUEKNOWLEDGE+ADD"
