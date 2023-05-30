@@ -1,2 +1,2 @@
 #!/bin/bash
-float NUM="22.34" | echo NUM
+printf "%.2f\n" $NUM
