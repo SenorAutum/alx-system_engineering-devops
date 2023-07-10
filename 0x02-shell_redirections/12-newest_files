@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | tr  “” “”| head 
+ls -1 | xargs ls -lt| head -n 10 
